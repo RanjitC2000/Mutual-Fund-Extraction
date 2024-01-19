@@ -1,0 +1,46 @@
+[
+    {
+        "role": "system",
+        "content": "Extract Fund Names given the text at the beginning of each Mutual Fund Prospectus. Be precise and concise."
+    },
+    {
+        "role": "user",
+        "content": "Prospectus Express Document  Terra Income Fund 6, Inc. Maximum Offering of $1,000,000,000 of Common Stock We are a specialty finance company that invests primarily in commercial real estate loans, preferred equity real estate investments and select commercial real estate-related debt securities of private companies. Our investment objectives are to pay attractive and stable cash distributions and to preserve, protect and return capital contributions to stockholders. We may also seek to realize growth in the value of our investments by timing their sale to maximize value. We are a non-diversified, closed-end management investment company that has elected to be regulated as a business development company under the Investment Company   Act of 1940, as amended, and to be taxed as a regulate"
+    },
+    {
+        "role": "assistant",
+        "content": "Fund Name: Terra Income Fund 6"
+    },
+    {
+        "role": "user",
+        "content": "Prospectus Express Document  October 31, 2019MacKenzie Realty Capital, Inc.Up to a Maximum of 15,000,000 Shares of Common StockWe are an externally managed non‑diversified company that has elected to be treated as a business development company under the Investment Company Act of 1940 (or the “1940 Act”).      Our investment objective is to generate both current income and capital appreciation through debt and equity real estate‑related investments. We are advised by MCM Advisers, LP. MacKenzie Capital Management, LP provides us with non‑investment      management services and the administrative services necessary for us to operate.non‑diversifiedWe are an externally managed non‑diversified company that has elected to be treated as a business development company under the Investment Com"
+    },
+    {
+        "role": "assistant",
+        "content": "Fund Name: MacKenzie Realty Capital"
+    },
+    {
+        "role": "user",
+        "content": "Prospectus Express Document  Mutual Funds3 August20203 August2020Fund NameClass AClass CClass C2Class R6Class INuveen High Yield Municipal Bond  FundNHMAXNHCCXNHMCXNHMFXNHMRXNuveen Short Duration High Yield  Municipal Bond FundNVHAXNVCCXNVHCX—NVHIXNuveen Strategic Municipal  Opportunities FundNSAOXNSCOX——NSIOXThe Securities and Exchange Commission has not approved or disapproved these securities or  passed upon the adequacy of this prospectus. Any representation to the contrary is a criminal offense.Beginning on January 1, 2021, as permitted by  regulations adopted by the Securities and Exchange Commission, paper copies of the Funds’ annual and semi-annual shareholder reports will no longer be sent by mail, unless you specifically request paper copies of the reports. Instead, the  repor"
+    },
+    {
+        "role": "assistant",
+        "content": "Fund Name: Nuveen Strategic Municipal Opportunities Fund, Nuveen High Yield Municipal Bond Fund, Nuveen Short Duration High Yield Municipal Bond Fund"
+    },
+    {
+        "role": "user",
+        "content": "Prospectus Express Document   August 3, 2020Nuveen All-American Municipal Bond FundTicker Symbols: Class A—FLAAX, Class C—FACCX, Class C2—FAACX,  Class R6—FAAWX, Class I—FAARXNuveen High Yield Municipal Bond FundTicker Symbols: Class A—NHMAX, Class C—NHCCX, Class C2—NHMCX,  Class R6—NHMFX, Class I—NHMRXNuveen Intermediate Duration Municipal Bond FundTicker Symbols: Class A—NMBAX, Class C—NNCCX, Class C2—NNSCX, Class  I—NUVBXNuveen Limited Term Municipal Bond FundTicker Symbols: Class A—FLTDX, Class C—FAFJX, Class C2—FLTCX,  Class I—FLTRXNuveen Short Duration High Yield Municipal Bond FundTicker Symbols: Class A—NVHAX, Class C—NVCCX, Class C2—NVHCX, Class  I—NVHIXNuveen Strategic Municipal Opportunities FundTicker Symbols: Class A—NSAOX, Class C—NSCOX, Class I—NSIOXSTATEMENT OF ADDITIONA"
+    },
+    {
+        "role": "assistant",
+        "content": "Fund Name: Nuveen Short Duration High Yield Municipal Bond Fund, Nuveen All American Municipal Bond Fund, Nuveen Limited Term Municipal Bond Fund, Nuveen Intermediate Duration Municipal Bond Fund, Nuveen Strategic Municipal Opportunities Fund, Nuveen High Yield Municipal Bond Fund"
+    },
+    {
+        "role": "user",
+        "content": "Prospectus Express Document  HIGHLAND FUNDS II STATEMENT OF ADDITIONAL INFORMATION January 31, 2021 300 Crescent Court, Suite 700, Dallas, Texas 75201 For information, call 1-877-665-1287 1-877-665-1287Class AClass CClass YEquity FundsHighland Socially Responsible Equity FundHPEAXHPECXHPEYXHighland Small-Cap Equity FundSmall-CapHighland Small-Cap Equity FundHSZAXHSZCXHSZYXThis Statement of Additional Information (“SAI”) supplements the information contained in the Statutory Prospectus of Highland Funds II (the “Trust”) dated January 31, 2021, as amended (the “Prospectus”), and should be read in conjunction with the Prospectus. The Trust is an open-end management investment company issuing shares in two separate publicly offered series. This SAI, although not a Prospectus, is incorporate"
+    },
+    {
+        "role": "assistant",
+        "content": "Fund Name: Highland Socially Responsible Equity Fund, Highland Small-Cap Equity Fund"
+    }
+]
