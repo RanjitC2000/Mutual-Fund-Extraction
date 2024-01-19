@@ -1,4 +1,0 @@
-mongodb+srv://broadridge:YoGsVo0gTEX5v6QA@cluster0.1ouwr.mongodb.net/test
-broadridge
-Task1_Demo
-Task3_Extract
